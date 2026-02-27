@@ -1,7 +1,7 @@
 {
-  "name": "knight-bot",
+  "name": "sachiya_bot_pair",
   "version": "1.0.0",
-  "description": "Knight Bot - WhatsApp Pair Code Generator",
+  "description": "sachiya_bot_pair - WhatsApp Pair Code Generator",
   "main": "index.js",
   "type": "module",
   "engines": {
