@@ -82,13 +82,14 @@ router.get('/', async (req, res) => {
                         // Send video thumbnail with caption
                         await KnightBot.sendMessage(userJid, {
                             image: { url: 'https://img.youtube.com/vi/-oz_u1iMgf8/maxresdefault.jpg' },
-                            caption: `🎬 *KnightBot MD V2.0 Full Setup Guide!*\n\n🚀 Bug Fixes + New Commands + Fast AI Chat\n📺 Watch Now: https://youtu.be/NjOipI2AoMk`
+                            caption: `🎬 *CYBER PANDA WHATSAPP BOT MD V10Full Setup Guide!*\n\n🚀 Bug Fixes + New Commands + Fast AI Chat\n📺 Watch Now: https://youtu.be/NjOipI2AoMk`
                         });
                         console.log("🎬 Video guide sent successfully");
 
                         // Send warning message
                         await KnightBot.sendMessage(userJid, {
-                            text: `⚠️Do not share this file with anybody⚠️\n 
+                            text: `⚠️ඔයා මෙක කාටවත් දෙන්න එපා. ⚠️                            
+⚠️Do not share this file with anybody⚠️\n 
 ┌┤✑  Thanks for using Knight Bot
 │└────────────┈ ⳹        
 │©2025 Mr Unique Hacker 
